@@ -1,0 +1,4 @@
+hyuki@qq.com=Hyuki
+hanako@qq.com=Hanako
+tomura@qq.com=Tomura
+mamoru@qq.com=Mamoru
