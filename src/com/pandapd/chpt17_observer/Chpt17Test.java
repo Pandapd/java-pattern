@@ -15,7 +15,7 @@ public class Chpt17Test {
         generator1.addObserver(o2);
         generator1.generate();
 
-        IncrementalNumberGenerator generator2 = new IncrementalNumberGenerator(10, 50, 5);
+        NumberGenerator generator2 = new IncrementalNumberGenerator(10, 50, 5);
         generator2.addObserver(o1);
         generator2.addObserver(o2);
         generator2.generate();
