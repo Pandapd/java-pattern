@@ -8,7 +8,7 @@
 
 2.Composite(复合物)：容器，程序中的Directory类
 
-3. Componet: 使Leaf和Composite具有一致性，也就是它们的父类，程序中是Entry。
+3. Component: 使Leaf和Composite具有一致性，也就是它们的父类，程序中是Entry。
 
 4. client: 使用者，Main程序
 
